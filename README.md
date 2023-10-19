@@ -1,7 +1,7 @@
  ### Hi there 👋
 
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&pause=1000&color=0500F6&random=false&width=435&lines=Hi..+I'm+Thimira+Sadeesha" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1002&color=0500F6&random=false&width=430&height=57&lines=Hi..+I'm+Thimira+Sadeesha" alt="Typing SVG" />
 </h1>
 
 <!--
